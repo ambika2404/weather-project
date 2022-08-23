@@ -1,0 +1,64 @@
+.card {
+  background: #100f0f;
+}
+.list-group-item {
+  background: #04293a;
+  color: #9a0f98;
+  margin-block-start: 20px;
+  margin-block-end: 20px;
+  width: 17rem;
+  padding-left: 10px;
+}
+button {
+  color: white;
+  background: hsl(144, 58%, 19%);
+  width: 270px;
+  height: 35px;
+  margin-left: 30px;
+  width: 200px;
+  height: 35px;
+}
+.search {
+  margin-top: 20px;
+  margin-left: 30px;
+  color: white;
+  background: #04293a;
+  width: 270px;
+  height: 35px;
+}
+.container {
+  padding: 100px;
+  width: 850px;
+}
+.tue,
+.wed,
+.thu,
+.fri,
+.sat {
+  background: #04293a;
+  color: #9a0f98;
+  list-style: none;
+  margin-left: 150px;
+  padding: 10px;
+  width: 270px;
+  height: 60px;
+  font-weight: bold;
+}
+.tue {
+  margin-top: 118px;
+}
+.submit {
+  margin-left: 330px;
+  color: white;
+  background: #04293a;
+  width: 120px;
+  height: 35px;
+}
+
+#celcius-link {
+  color: #9a0f98;
+}
+
+#farenheit-link {
+  color: #9a0f98;
+}
